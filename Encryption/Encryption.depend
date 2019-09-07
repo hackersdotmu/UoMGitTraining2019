@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567875542 source:c:\users\user\desktop\codeblocks\encryption\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
